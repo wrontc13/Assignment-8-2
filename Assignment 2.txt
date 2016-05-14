@@ -1,0 +1,1 @@
+REST hanldes the further complexities such as input validation, improper error messages, and internal employee vulnerabilities which HTTP does not account for. 
